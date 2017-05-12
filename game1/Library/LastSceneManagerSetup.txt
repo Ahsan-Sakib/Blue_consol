@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Bug/Downloads/BLUE-CONSOLE-master/Blue Console Week 3/Assets/s.unity
+  isLoaded: 1
+  isActive: 1
